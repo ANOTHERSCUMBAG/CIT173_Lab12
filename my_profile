@@ -1,0 +1,11 @@
+# .bash_profil
+echo" What is thy bidding, my master?"
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+
